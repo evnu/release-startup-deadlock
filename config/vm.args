@@ -1,0 +1,8 @@
+-sname reproduce_hang
+
+-setcookie reproduce_hang_cookie
+
++K true
++A30
+
+-kernel logger_level info
